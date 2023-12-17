@@ -10,4 +10,4 @@ git merge buat narik perubahan dari branch
 push itu dari local ke repo
 pull itu dari repo ke local
  pull request (konsep review)
-ISINYA COBA DIUBAH
+COBA GUA UBAH YAAA
