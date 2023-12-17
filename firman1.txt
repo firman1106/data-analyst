@@ -1,0 +1,12 @@
+git status melihat yg modified
+pindah branch ke branch lain
+
+git checkout -b
+git push origin nama branch
+bikin branch
+
+git merge buat narik perubahan dari branch
+
+push itu dari local ke repo
+pull itu dari repo ke local
+ pull request (konsep review)
