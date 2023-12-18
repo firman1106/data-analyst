@@ -1,0 +1,10 @@
+a. git add . git commit git push
+
+b. git pull
+
+b. mengunduh dari repo ke lokal
+
+d. mengirim perubahan
+
+b. nama percabangan
+
