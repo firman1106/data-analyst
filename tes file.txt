@@ -1,1 +1,2 @@
-tes file branch firman okee
+tes file branch firman okee'
+dari branch firman udah di ke masterin .. sekarang mau git pull supaya dari master ada di firman
